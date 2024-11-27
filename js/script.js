@@ -38,7 +38,7 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing", {
       strings: [
-        "IT Engineering",
+        "IT Engineering Student",
       ],
       typeSpeed: 100,
       backSpeed: 60,
@@ -47,7 +47,7 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "IT Engineering",
+        "IT Engineering Student",
       ],
       typeSpeed: 100,
       backSpeed: 60,
